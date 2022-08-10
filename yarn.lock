@@ -1017,7 +1017,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/articles@file:./modules/articles/":
+"@modules/articles@file:./modules/articles":
   version "1.0.0"
 
 "@modules/privacy-policy@file:./modules/privacy-policy":
@@ -1247,6 +1247,9 @@
   version "1.0.0"
 
 "@screens/support-send-feedback@file:./screens/support-send-feedback":
+  version "1.0.0"
+
+"@screens/token@file:./screens/token/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
