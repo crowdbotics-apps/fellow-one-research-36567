@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-forgot-password](screens/forgot-password)
 - [screen-login](screens/login)
 - [react-native-login](modules/login)
+- [screen-welcome](screens/welcome)
 
 # Getting started: Frontend
 
