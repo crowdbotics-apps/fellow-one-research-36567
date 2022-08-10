@@ -22,6 +22,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
+    "@screens/login": "file:./screens/login/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "@screens/token": "file:./screens/token/",
     "axios": "^0.21.1",
