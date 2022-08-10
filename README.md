@@ -63,7 +63,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [react-native-app-menu](modules/app-menu)
-- [react-native-articles](modules/articles)
 - [screen-token](screens/token)
 - [screen-forgot-password](screens/forgot-password)
 - [screen-login](screens/login)
